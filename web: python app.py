@@ -1,3 +1,3 @@
-git add Procfile
-git commit -m "Add Procfile untuk start command"
+git add .
+git commit -m "Fix host and port for Railway"
 git push
